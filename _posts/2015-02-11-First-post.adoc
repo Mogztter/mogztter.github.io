@@ -1,0 +1,4 @@
+= First post
+:hp-tags: awesome, hubpress
+
+This is *awesome* !
