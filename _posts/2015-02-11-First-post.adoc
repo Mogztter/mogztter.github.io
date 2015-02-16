@@ -1,4 +1,21 @@
 = First post
 :hp-tags: awesome, hubpress
+:source-highlighter: prettify
+
 
 This is *awesome* !
+
+Syntax highligthing
+
+
+[source, html]
+----
+<div id="test"></div>
+----
+
+[source, ruby]
+----
+def test()
+  puts "Hello"
+end
+----
