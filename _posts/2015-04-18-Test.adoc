@@ -1,4 +1,5 @@
 = Test
+:hp-tags: awesome, hubpress
 
 [source,html]
 ----
