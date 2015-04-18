@@ -1,6 +1,5 @@
 = First post
 :hp-tags: awesome, hubpress
-:source-highlighter: prettify
 
 
 This is *awesome* !
